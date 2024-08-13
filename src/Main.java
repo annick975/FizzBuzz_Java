@@ -19,5 +19,6 @@ public class Main {
             System.out.println(nbr);
         }
     }
+    // Switch statements may also be used
 
     }
